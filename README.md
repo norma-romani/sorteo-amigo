@@ -38,11 +38,11 @@ Uso 📌
 
 Instalación y Uso 🔧
 
-Este proyecto no requiere instalación. Solo necesitas un navegador web para ejecutarlo.
+- Este proyecto no requiere instalación. Solo necesitas un navegador web para ejecutarlo.
 
-Este es el enlace del deployment: https://norma-romani.github.io/sorteo-amigo/
+- Este es el enlace del deployment: https://norma-romani.github.io/sorteo-amigo/
 
-¡Disfruta del sorteo de "Amigo Secreto"! 🎉
+- ¡Disfruta del sorteo de "Amigo Secreto"! 🎉
 
 Contribuciones 🤝
 
